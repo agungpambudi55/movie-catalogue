@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Favorite</string>
+    <string name="emptyFavMovie">Empty Favorite Movie Data</string>
+    <string name="exampleImage">Image</string>
+    <string name="exampleVote">8.2</string>
+</resources>

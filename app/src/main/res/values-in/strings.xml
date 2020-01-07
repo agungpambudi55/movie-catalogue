@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="setting">Pengaturan</string>
+    <string name="reminder">Pengingat</string>
+    <string name="favorite">Favorit</string>
+    <string name="search">Pencarian</string>
+    <string name="searchHint">Pencarian</string>
+    <string name="tabText1">Film</string>
+    <string name="tabText2">Acara TV</string>
+    <string name="movieDetail">Detail Film</string>
+    <string name="tvshowDetail">Detail Acara TV</string>
+
+    <string name="exampleImage">Gambar</string>
+    <string name="exampleTitle">Jumanji: The Next Level</string>
+
+    <string name="labelVote">PERINGKAT</string>
+    <string name="exampleVote">8.2</string>
+
+    <string name="labelDate">TANGGAL RILIS</string>
+    <string name="exampleDate">2019-12-04</string>
+
+    <string name="labelOverview">GAMBARAN UMUM</string>
+    <string name="exampleOverview">Film adalah serangkaian gambar fotografi, yang ketika ditampilkan di layar akan menciptakan ilusi gambar bergerak karena fenomena phi. Ilusi optik ini memaksa penonton untuk melihat gerakan terus menerus antara objek yang berbeda dengan cepat dan berturut-turut. Proses pembuatan film adalah kombinasi antara seni dan industri. Sebuah film dapat dibuat dengan memotret adegan nyata dengan kamera film; memotret gambar atau model "miniatur" menggunakan teknik animasi tradisional; dengan CGI dan animasi komputer; atau dengan kombinasi beberapa teknik yang ada dan efek visual lainnya.</string>
+
+    <string name="favSuccess">Berhasil Difavoritkan</string>
+    <string name="favFailed">Gagal Difavoritkan</string>
+    <string name="unFavSuccess">Berhasil Tidak Difavoritkan</string>
+    <string name="unFavFailed">Gagal Tidak Difavoritkan</string>
+    <string name="emptyFavMovie">Data Movie Favorit Kosong</string>
+    <string name="emptyFavTVShow">Data TVShow Favorit Kosong</string>
+
+    <string name="dailyReminder">Pengingat Harian</string>
+    <string name="releaseReminder">Pengingat Rilis</string>
+
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="empty_text">Data Kosong</string>
+    <string name="statusOn">Hidup</string>
+    <string name="statusOff">Mati</string>
+    <string name="lblMovieRelease">Rilis Film Hari Ini</string>
+    <string name="labelTitle">Lost Girls</string>
+
+</resources>

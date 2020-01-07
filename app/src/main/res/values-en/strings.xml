@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="setting">Setting</string>
+    <string name="reminder">Reminder</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Search</string>
+    <string name="tabText1">Movie</string>
+    <string name="tabText2">TV Show</string>
+    <string name="movieDetail">Movie Detail</string>
+    <string name="tvshowDetail">TVShow Detail</string>
+
+    <string name="exampleImage">Image</string>
+    <string name="exampleTitle">Jumanji: The Next Level</string>
+
+    <string name="labelVote">RATING</string>
+    <string name="exampleVote">8.2</string>
+
+    <string name="labelDate">DATE RELEASE</string>
+    <string name="exampleDate">2019-12-04</string>
+
+    <string name="labelOverview">OVERVIEW</string>
+    <string name="exampleOverview">Film is a series of photographic images, which when displayed on the screen will create the illusion of moving images due to phi phenomena. This optical illusion forces the viewer to see continuous movements between different objects quickly and in a row. The film making process is a combination of art and industry. A film can be made by photographing real scenes with a film camera; photographing pictures or "miniature" models using traditional animation techniques; with CGI and computer animation; or by a combination of some existing techniques and other visual effects.</string>
+
+    <string name="favSuccess">Successfully Favorited</string>
+    <string name="favFailed">Failed To Be Favorited</string>
+    <string name="unFavSuccess">Successfully Not Favorited</string>
+    <string name="unFavFailed">Failed Not Favorited</string>
+    <string name="emptyFavMovie">Empty Favorite Movie Data</string>
+    <string name="emptyFavTVShow">Empty Favorite TVShow Data</string>
+
+    <string name="dailyReminder">Daily Reminder</string>
+    <string name="releaseReminder">Release Reminder</string>
+
+    <string name="appwidget_text">Movie Favorite</string>
+    <string name="empty_text">No Data</string>
+    <string name="statusOn">ON</string>
+    <string name="statusOff">OFF</string>
+    <string name="lblMovieRelease">Today\'s Movies Release</string>
+    <string name="labelTitle">Lost Girls</string>
+
+</resources>
