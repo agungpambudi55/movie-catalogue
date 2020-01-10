@@ -1,3 +1,8 @@
+/*
+    Created on Dec 2019
+    Agung Pambudi <agung.pambudi5595@gmail.com>
+*/
+
 package com.dicoding.picodiploma.appfavorite.helper
 
 import android.database.Cursor

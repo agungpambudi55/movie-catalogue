@@ -1,3 +1,8 @@
+/*
+    Created on Dec 2019
+    Agung Pambudi <agung.pambudi5595@gmail.com>
+*/
+
 package com.dicoding.picodiploma.moviecatalouge.helper
 
 import android.annotation.SuppressLint
